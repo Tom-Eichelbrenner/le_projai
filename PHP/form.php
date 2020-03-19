@@ -1,18 +1,23 @@
 <?php
 ?>
 <footer>
-        <form>
-            <h3>Get the latests news and updates</h3>
-            <div class="form_footer">
-                <input class="large_input" type="email" placeholder="Email*" required>
-                <input class="large_input" type="text" placeholder="Name">
+    <form action="/PHP/sent.php">
+        <h3>Get the latests news and updates</h3>
+        <div class="form_footer">
+            <label>
+                <input class="large_input" name="email" placeholder="Email*" required type="email">
+            </label>
+            <label>
+                <input class="large_input" type="text" name="name" placeholder="Name">
+            </label>
+            <label>Area of Interest :
                 <select class="large_input">
-                    <option> Area of Interest
-<option> General
-<option> Developer
-<option> Enterprise
-</select>
-                <input class="footer_Button" type="submit" value="Submit">
+                    <option> General
+                    <option> Developer
+                    <option> Enterprise
+                </select>
+            </label>
+            <input class="footer_Button" type="submit" value="Submit">
 
             </div>
             <div class="footer_form_p">
