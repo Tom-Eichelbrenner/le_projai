@@ -115,10 +115,12 @@ body {
 .section_1 img {
     width: 99.2vw;
     position: relative;
+    z-index: 1;
 }
 
 .section_1 div {
     position: absolute;
+    z-index: 2;
     top: 50%;
     left: 20%;
     transform: translate(-50%, -50%);
@@ -702,6 +704,7 @@ nav {
     display: flex;
     justify-content: space-between;
     position: fixed;
+    z-index: 3;
     width: 100%;
     background-color: darkslategray;
     height: 65px;
