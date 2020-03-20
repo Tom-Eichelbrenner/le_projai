@@ -1,0 +1,13 @@
+.centered_form{
+    text-align: center;
+    margin: 10vh 0 5vh 0;
+}
+.message_textarea{
+    display: flex;
+    justify-content: center;
+}
+.form_button{
+    height: 5vh;
+    align-self: center;
+    margin: 0 3vh;
+}
