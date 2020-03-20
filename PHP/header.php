@@ -5,7 +5,7 @@
 <header>
     <nav>
         <div class="nav_logo">
-            <a href="../accueil/index.php">
+            <a href="../index.php">
                 <img src="../images/photos/logo (2).png" alt="logo">
             </a>
         </div>

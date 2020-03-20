@@ -13,12 +13,12 @@
 <body>
     <!--HEADER-->
     <?php
-    include '../PHP/header.php'
+    include 'PHP/header.php'
     ?>
     <!--HEADER-->
     <!--PARTIE 1  -->
     <section class="section_1">
-        <img src="../images/AEC_Hero_Desktop-good.jpg" alt="">
+        <img src="images/AEC_Hero_Desktop-good.jpg" alt="">
         <div class="col1">
             <h2>REALITY IS JUST BEGINNING</h2>
             <p>Rewrite the rules of your industry with Magic Leap 1.</p>
@@ -28,7 +28,7 @@
     <!--FIN PARTIE 1 -->
     <!--PARTIE 2  -->
     <section class="section2">
-        <img src="../images/ML_MvsM_flowerStill_1205_8.jpeg" alt="">
+        <img src="images/ML_MvsM_flowerStill_1205_8.jpeg" alt="">
         <div>
             <h2>AS POWERFUL AS A LAPTOP. LIGHT ENOUGHT TO WEAR EVERY DAY.</h2>
             <p>Magic Leap 1 is a lightweight, wearable computer that brings the physical and digital worlds together as one.</p>
@@ -38,13 +38,13 @@
     <!--PARTIE 3  -->
     <section class="section3">
         <h2>What is Magic Leap 1?</h2>
-        <img src="../images/desktop-vr_3x.jpeg" alt="">
+        <img src="images/desktop-vr_3x.jpeg" alt="">
         <h2>It's not VR.</h2>
         <p class="vcol6">Let’s say you want to see an astronaut. You can do that with Virtual Reality, but it isolates you from the physical world.</p>
-        <img src="../images/ar-1210-desktop.jpeg" alt="">
+        <img src="images/ar-1210-desktop.jpeg" alt="">
         <h2>It's not smartphone AR.</h2>
         <p class="vcol6">Augmented Reality can place an astronaut in the physical world. But the whole experience is trapped within a tiny handheld screen.</p>
-        <img src="../images/sc-1210-desktop.jpeg" alt="">
+        <img src="images/sc-1210-desktop.jpeg" alt="">
         <h2>It's a spatial computer.</h2>
         <p class="vcol6">With Magic Leap 1, an astronaut can float around your hallway, moonwalk across your coffee table, and seamlessly understand the space it’s in. It can even look you in the eye.</p>
         <a class="section3button" href="magicleap1.html">See how it works</a>
@@ -54,7 +54,7 @@
     <!--FIN PARTIE 3 -->
     <!--PARTIE 4  -->
     <section class="section4">
-        <img src="../images/health-final-16x9.jpeg" alt="">
+        <img src="images/health-final-16x9.jpeg" alt="">
         <h2>MAGIC LEAP 1 FOR ENTERPRISE</h2>
         <p>Have lunch with a colleague in London without leaving LA. Take a tour of a building before it’s built. Upskill your workforce in an instant. With Magic Leap 1, even the boldest business ideas are possible.</p>
         <a class="section4button" href="enterprise.html">See enterprise opportunities</a>
@@ -62,7 +62,7 @@
     <!--FIN PARTIE 4 -->
     <!--PARTIE 5  -->
     <section class="section5">
-        <img src="../images/Surf_Desktop_3x.jpeg" alt="">
+        <img src="images/Surf_Desktop_3x.jpeg" alt="">
         <h2>MAGIC LEAP 1 AT HOME</h2>
         <p>Wake up and water your alien plants. Examine a lifesize T-Rex fossil in your living room. Turn your ceiling into a cinema screen, and fight robots pouring through the walls. Magic Leap 1 makes reality as fun as fiction.</p>
         <a class="section5button" href="magicleap1.html">Learn more</a>
@@ -70,7 +70,7 @@
     <!--FIN PARTIE 5  -->
     <!--PARTIE 6  -->
     <section class="section6">
-        <img src="../images/Developer-desktop.jpeg" alt="">
+        <img src="images/Developer-desktop.jpeg" alt="">
         <h2>DEVELOP FOR MAGIC LEAP 1</h2>
         <p>Got an idea? Be one of the first to bring it to life with Magic Leap. You’ll be amazed how easy it is to get started. Plus there’s a thriving community, dedicated support team, and a growing list of partners to help you reach the finish line.</p>
         <a class="section6button" href="developer.html">Start building</a>
@@ -80,7 +80,7 @@
     <section class="section7">
         <h2>Magic Leap 1 for $2,295</h2>
         <p>Or $96 per month for 24 months with 0% APR.</p>
-        <a class="section7button" href="../Shop_Page/index_shop.php" target="_blank">Shop now</a>
+        <a class="section7button" href="Shop_Page/index_shop.php" target="_blank">Shop now</a>
     </section>
     <!--FIN PARTIE 7  -->
     <!--PARTIE 8  -->
@@ -88,42 +88,42 @@
         <h2>Created with our world-class partners</h2>
         <div>
             <div class="logo">
-                <img src="../images/logos_png/google.png" alt="">
+                <img src="images/logos_png/google.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/CNN.png" alt="">
+                <img src="images/logos_png/CNN.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/HBO.png" alt="">
+                <img src="images/logos_png/HBO.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/insomniac.png" alt="">
+                <img src="images/logos_png/insomniac.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/lucasfilm.png" alt="">
+                <img src="images/logos_png/lucasfilm.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/NYT.png" alt="">
+                <img src="images/logos_png/NYT.png" alt="">
             </div>
         </div>
         <div>
             <div class="logo">
-                <img src="../images/logos_png/Obsess.png" alt="">
+                <img src="images/logos_png/Obsess.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/RSC.png" alt="">
+                <img src="images/logos_png/RSC.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/spatial.png" alt="">
+                <img src="images/logos_png/spatial.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/unity.png" alt="">
+                <img src="images/logos_png/unity.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/unreal.png" alt="">
+                <img src="images/logos_png/unreal.png" alt="">
             </div>
             <div class="logo">
-                <img src="../images/logos_png/WETA_3x.png" alt="">
+                <img src="images/logos_png/WETA_3x.png" alt="">
             </div>
         </div>
         <hr>
@@ -138,7 +138,7 @@
                 <div class="v_article_text">
                     <h2>Find your nearest AT&T store</h2>
                     <p>Visitors in North America can book a demo in select stores.</p>
-                    <a class="section9_stores_events_a" href="../Shop_Page/index_shop.php" target="_blank">See all stores</a>
+                    <a class="section9_stores_events_a" href="Shop_Page/index_shop.php" target="_blank">See all stores</a>
                 </div>
             </article>
             <article class="varticle varticle_full vcol9">
@@ -206,11 +206,11 @@
         </div>
         <!--FIN PARTIE 9 -->
         <?php
-        include '../PHP/form.php';
-        include '../PHP/footer.php';
+        include 'PHP/form.php';
+        include 'PHP/footer.php';
         ?>
 
-        <script src="../base/base.js"></script>
+        <script src="base/base.js"></script>
 
 
 
