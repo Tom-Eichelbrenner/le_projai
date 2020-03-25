@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="/Shop_Page/style_shop.css">
 <link rel="stylesheet" href="styleform.css">
 <?php
-$nom = $_GET['name'];
-$mail = $_GET['email'];
+$nom = $_POST['name'];
+$mail = $_POST['email'];
 include 'header.php';
 echo "<p class='centered_form'> Bonjour $nom, nous avons bien enregistré $mail à notre newsletter !</br></p>";
 echo "<p class='centered_form'> Voulez vous envoyer un message a notre équipe ?</p> </br>";

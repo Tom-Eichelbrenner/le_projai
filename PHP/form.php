@@ -1,7 +1,7 @@
 <?php
 ?>
 <footer>
-    <form action="/PHP/sent.php">
+    <form action="/PHP/sent.php" method="post" >
         <h3>Get the latests news and updates</h3>
         <div class="form_footer">
             <label>
