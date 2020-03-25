@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/reset.css">
     <link rel="stylesheet" href="/accueil/style_index.css">
-    <title>Document</title>
+    <title>Spatial Computing for Enterprise | Magic Leap</title>
 </head>
 
 <body>
