@@ -10,7 +10,7 @@ html menu {
     right: 0;
     margin-right: 15px;
     cursor: pointer;
-    z-index: 3;
+    z-index: 4;
 }
 
 .toggle_btn span {
@@ -34,7 +34,7 @@ html menu {
 
 .menu_burger {
     height: 250px;
-    background-color: grey;
+    background-color: #2A2A2A;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -42,7 +42,7 @@ html menu {
 }
 
 .menu_burger a {
-    color: white;
+    color: #F3F4F4;
     font-family: sans-serif;
     text-align: left;
     display: block;
@@ -62,7 +62,7 @@ html menu {
 .nav_burger_open {
     margin-top: 0;
     transition-duration: 1s;
-    z-index: 2;
+    z-index: 3;
 
 
 }
