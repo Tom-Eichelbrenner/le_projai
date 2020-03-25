@@ -6,11 +6,11 @@ html menu {
 .toggle_btn {
     height: 30px;
     width: 30px;
-    position: relative;
-    float: right;
-    margin-right: 10px;
-    margin-top: 5px;
+    position: fixed;
+    right: 0;
+    margin-right: 15px;
     cursor: pointer;
+    z-index: 3;
 }
 
 .toggle_btn span {
@@ -53,13 +53,18 @@ html menu {
 }
 
 .nav_burger {
-    margin-left: -100vw;
+    margin-top: -100vw;
     transition-duration: 1s;
+    position: fixed;
+    z-index: 2;
 }
 
 .nav_burger_open {
-    margin-left: 0;
+    margin-top: 0;
     transition-duration: 1s;
+    z-index: 2;
+
+
 }
 
 @media screen and (min-width:768px) {
