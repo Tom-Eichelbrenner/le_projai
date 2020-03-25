@@ -23,7 +23,7 @@
             <span></span>
         </div>
         <div class="menu_burger nav_burger">
-            <a href="" class="burger_logo"> <img src="../images/photos/logo.png" alt=""></a>
+            <a href="../index.php" class="burger_logo"> <img src="../images/photos/logo.png" alt=""></a>
             <a href="">Magic Leap 1</a>
             <a href="../Experiences_Page/experiences.php">Experiences</a>
             <a href="">Entreprise</a>
