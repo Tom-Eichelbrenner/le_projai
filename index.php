@@ -4,6 +4,7 @@
 <head>
 
     <meta charset="UTF-8">
+    <meta name="description" content="Step aside VR and smartphone AR. Magic Leap 1 is a wearable spatial computer that brings the physical and digital worlds together as one.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/reset.css">
     <link rel="stylesheet" href="/accueil/style_index.css">
