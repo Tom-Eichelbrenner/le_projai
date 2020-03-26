@@ -26,7 +26,8 @@ p {
 .title_block h1 {
     font-size: 230%;
     font-weight: 700;
-    margin: 15vh 3vh 3vh 3vh;
+    margin: 0vh 3vh 3vh 3vh;
+    padding: 15vh 0 0 0;
     overflow: visible;
     text-align: center;
 }
