@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <script src="https://kit.fontawesome.com/c5a11bbba4.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Choose Your Bundle | Magic Leap</title>
     <link rel="stylesheet" href="../reset.css">
     <link rel="stylesheet" href="style_shop.css">
 </head>
