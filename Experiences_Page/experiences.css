@@ -17,6 +17,11 @@ body {
     flex-wrap: wrap;
 }
 
+.logo_nav_mobile{
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 60px;
+}
+
 .centered{ justify-content: center; }
 .around{ justify-content: space-around; }
 .between{ justify-content: space-between; }

@@ -7,7 +7,7 @@
     <nav>
         <div class="nav_logo">
             <a href="../index.php">
-                <img src="../images/photos/logo (2).png" alt="logo">
+                <img src="../images/photos/logo.png" alt="logo">
             </a>
         </div>
         <div class="nav_links">
@@ -19,9 +19,13 @@
         </div>
     </nav>
     <div class="nav_mobile">
+        <div class="logo_nav_mobile">
+            <img src="../images/photos/logo.png" alt="logo">
+        </div>
         <div class="toggle_btn">
             <span></span>
         </div>
+
         <div class="menu_burger nav_burger">
             <a href="../index.php" class="burger_logo"> <img src="../images/photos/logo.png" alt=""></a>
             <a href="">Magic Leap 1</a>

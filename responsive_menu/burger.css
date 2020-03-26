@@ -14,17 +14,26 @@ html menu {
 }
 
 .toggle_btn span {
-    height: 3px;
+    border-radius: 50px;
+    height: 5px;
     background-color: black;
     width: 100%;
     position: absolute;
     top: 20px;
     left: 0;
 }
-
+.logo_nav_mobile{
+    position: fixed;
+    z-index: 2;
+}
+.logo_nav_mobile img{
+    padding: 30px 20px;
+}
 .toggle_btn span:before {
+    border-radius: 50px;
+
     content: "";
-    height: 3px;
+    height: 5px;
     background-color: black;
     width: 100%;
     position: absolute;
@@ -63,6 +72,7 @@ html menu {
     margin-top: 0;
     transition-duration: 1s;
     z-index: 3;
+    background-color: rgba(0,0,0,0.8);
 
 
 }

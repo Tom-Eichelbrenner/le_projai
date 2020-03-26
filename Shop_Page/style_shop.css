@@ -13,7 +13,10 @@ h3 {
     font-weight: 700;
     padding: 1vw;
 }
-
+.logo_nav_mobile{
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 60px;
+}
 h4 {
     padding: 1vw;
     font-size: 150%;

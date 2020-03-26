@@ -19,8 +19,13 @@
     <!--HEADER-->
     <!--PARTIE 1  -->
     <section class="section_1">
-        <img src="images/AEC_Hero_Desktop-good.jpg" alt="">
-        <div class="col1">
+        <div class="img_dsk">
+            <img src="images/AEC_Hero_Desktop-good.jpg" alt="">
+        </div>
+        <div class="img_phone">
+            <img src="images/index_natasha_phone.jpg" alt="">
+        </div>
+        <div class="col1 sect1_txt">
             <h2>REALITY IS JUST BEGINNING</h2>
             <p>Rewrite the rules of your industry with Magic Leap 1.</p>
             <a class="partie1button" href="enterprise.html">See enterprise opportunities</a>
