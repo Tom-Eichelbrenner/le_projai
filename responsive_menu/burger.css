@@ -24,7 +24,9 @@ html menu {
 }
 .logo_nav_mobile{
     position: fixed;
-    z-index: 2;
+    z-index: 3;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 60px;
 }
 .logo_nav_mobile img{
     padding: 30px 20px;
@@ -77,16 +79,17 @@ html menu {
 
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width: 1024px) {
     .nav_mobile {
         display: none;
     }
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width: 1023px) {
     nav {
         display: none;
     }
+
     .nav_help {
         display: none;
     }
