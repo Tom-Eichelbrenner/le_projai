@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="/reset.css">
 <link rel="stylesheet" href="/Shop_Page/style_shop.css">
 <link rel="stylesheet" href="styleform.css">
+<script src="../base/base.js"></script>
+
 <?php
 $nom = $_POST['name'];
 $mail = $_POST['email'];
